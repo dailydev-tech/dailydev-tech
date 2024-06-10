@@ -5,11 +5,11 @@
    - phone: ask for it
    - professional inquires: jordan.dodd@terrapintech.com
 ---
-### Homelab/IOC:
+#### Homelab/IOC:
 I spend a large portion of my time frustrated at my homelab.  It's 2-3year old Dell and HP servers which comprising a cluster of a lot of<br>
 random stuff.  HMU to rent space on my servers 🗃️ Or to have a private cloud K8's cluster hand provisioned ✋🕤
 ---
-### Photography + Fishing
+#### Photography + Fishing
 I spend a lot of time fishing and a little time taking pictures of the fish 🐟.  I am hoping to share am feature rich Angular prject for poepple<br>
 thsese same interested so that everybody can share a 
   - pic of a big catch (or)
